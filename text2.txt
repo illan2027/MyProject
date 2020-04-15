@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E21B-45DC
+
+ Directory of C:\My Work\gitworkspace
+
+15-04-2020  17:48    <DIR>          .
+15-04-2020  17:48    <DIR>          ..
+15-04-2020  17:48               337 text1.txt
+15-04-2020  17:48                 0 text2.txt
+               2 File(s)            337 bytes
+               2 Dir(s)  449,904,181,248 bytes free
